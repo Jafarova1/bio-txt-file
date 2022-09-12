@@ -1,0 +1,5 @@
+name-Gultaj
+lastname-Jafarova
+age-18
+study-Baku state university
+from-Baku
